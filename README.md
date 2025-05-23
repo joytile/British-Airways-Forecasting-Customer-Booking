@@ -1,1 +1,3 @@
-# British-Airways-Customer-Booking
+# Forecasting British Airways' Customer Booking
+
+## Project Overview
